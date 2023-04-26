@@ -1,0 +1,15 @@
+.wrapper{
+    width: 110%;
+    height: 110%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 36px;
+    line-height: 42px;
+    font-weight: 700;
+    border-radius: 20px;
+    position: absolute;
+    background: rgb(45, 134, 84);
+    left: -10px;
+    top: -10px;
+}
